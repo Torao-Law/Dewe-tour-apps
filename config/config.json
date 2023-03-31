@@ -1,11 +1,11 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "1234",
-    "database": "dewe-tour-apps",
+    "username": "root",
+    "password": null,
+    "database": "dewe-tours-app",
     "host": "localhost",
-    "port": 5432,
-    "dialect": "postgres"
+    "port": 3306,
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
